@@ -1,1 +1,1 @@
-# React-DICOM-
+# React-DICOM
